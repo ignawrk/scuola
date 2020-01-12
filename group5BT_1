@@ -1,0 +1,18 @@
+group: 5BT
+
+
+Studenti ={
+	Matricola:number, Cognome:string, Nome:string, CodScuola
+	1               , 'Arri'        , 'Mat'      , 'BG001'
+	2               , 'Carm'        , 'Mic'      , 'BG001'
+	3               , 'Cice'        , 'Mea'      , 'BG001'
+}
+
+
+Scuola = { 
+	CodScuola:string, NomeScuola:string, Citta:string
+	'BG001' 		, 'Archimede'      , 'Treviglio'       
+	'BG002'         , 'Galileo'        , 'Caravaggio' 
+	'BG003'         , 'Oberdan'        , 'Treviglio' 
+	'BG004'         , 'Paleocapa'      , 'Bergamo'
+}
